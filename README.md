@@ -1,4 +1,7 @@
-# React Practice Project
+Check out the website [here](https://chows23.github.io/shop-cart-2-React/)
+click MouseHeavan to start purchasing.
+
+## React Practice Project
 Using React, develop a simple shopping cart app
 * `App`: the application main component.
 * `Cart`: The top level cart component, contains the cart total and helps to print out each individual cart item.
