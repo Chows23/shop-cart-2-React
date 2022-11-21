@@ -1,5 +1,14 @@
 Check out the website [here](https://chows23.github.io/shop-cart-2-React/) and click MouseHeavan to start purchasing.
 
+When you click any item there will add to cart on the top right side. 
+
+<img width="935" alt="24" src="https://user-images.githubusercontent.com/71317442/203140409-d23cc5b2-ce33-4da1-ae88-4ef1bf350017.png">
+
+There is another page when you click on cart icon.
+
+<img width="407" alt="25" src="https://user-images.githubusercontent.com/71317442/203140627-1f9a1947-93ff-4d80-96d0-80d986291127.png">
+
+
 ## React Practice Project
 Using React, develop a simple shopping cart app
 * `App`: the application main component.
